@@ -3,7 +3,6 @@ channels:
   - defaults
 dependencies:
   - appdirs=1.4.3
-  - appnope=0.1.0
   - asn1crypto=0.24.0
   - attrs=18.1.0
   - automat=0.7.0
